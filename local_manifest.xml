@@ -10,7 +10,7 @@
 
   <project path="vendor/xiaomi/lavender" name="xenxynon/vendor_xiaomi_lavender" remote="xenxynon" revision="12" />
 
-  <project path="kernel/xiaomi/lavender" name="xenxynon/nexus-xtreme_kernel_xiaomi_lavender" remote="xenxynon" revision="eas-main" />
+  <project path="kernel/xiaomi/lavender" name="xenxynon/Nexus-Xtreme_Kernel_Lavender" remote="xenxynon" revision="eas-main" />
 
   
 
