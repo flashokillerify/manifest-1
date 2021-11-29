@@ -1,19 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
 <manifest>
 
       <remote name="xenxynon"
-
           fetch="https://github.com/xenxynon" />
 
-  <project path="device/xiaomi/lavender" name="xenxynon/device_xiaomi_lavender" remote="xenxynon" revision="11" />
-
-  <project path="vendor/xiaomi/lavender" name="xenxynon/vendor_xiaomi_lavender" remote="xenxynon" revision="11" />
-
-  <project path="kernel/xiaomi/lavender" name="xenxynon/kernel_xiaomi_lavender" remote="xenxynon" revision="oldcam-eas" />
-
+  <project path="device/xiaomi/lavender" name="device_xiaomi_lavender" remote="xenxynon" revision="11" />
+  <project path="vendor/xiaomi/lavender" name="vendor_xiaomi_lavender" remote="xenxynon" revision="11" />
+  <project path="kernel/xiaomi/lavender" name="kernel_xiaomi_lavender" remote="xenxynon" revision="eas-main" />
   
-
   
-
 </manifest>
