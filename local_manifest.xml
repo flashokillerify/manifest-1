@@ -4,8 +4,8 @@
       <remote name="xenxynon"
           fetch="https://github.com/xenxynon" />
 
-  <project path="device/xiaomi/lavender" name="device_xiaomi_lavender" remote="xenxynon" revision="11-caf" />
-  <project path="vendor/xiaomi/lavender" name="vendor_xiaomi_lavender" remote="xenxynon" revision="11-caf" />
+  <project path="device/xiaomi/lavender" name="android_device_xiaomi_lavender" remote="xenxynon" revision="eleven" />
+  <project path="vendor/xiaomi/lavender" name="vendor_xiaomi_lavender" remote="xenxynon" revision="eleven" />
   <project path="kernel/xiaomi/lavender" name="kernel_xiaomi_lavender" remote="xenxynon" revision="oldcam-eas" />
   
   
