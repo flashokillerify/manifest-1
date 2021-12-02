@@ -9,6 +9,6 @@
   <project path="kernel/xiaomi/lavender" name="kernel_xiaomi_lavender" remote="xenxynon" revision="oldcam-eas" />
 
   <remove-project name="android_device_qcom_sepolicy" />
-  <project path="device/qcom/sepolicy-legacy" name='android_device_qcom_sepolicy-legacy-um" remote="xenxynon" />
+  <project path="device/qcom/sepolicy-legacy-um" name="android_device_qcom_sepolicy-legacy-um" remote="xenxynon" />
   
 </manifest>
