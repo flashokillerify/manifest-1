@@ -4,7 +4,7 @@
       <remote name="xenxynon"
           fetch="https://github.com/xenxynon" />
 
-  <project path="device/xiaomi/lavender" name="aex_device_xiaomi_lavender" remote="xenxynon" revision="Evo-12" />
+  <project path="device/xiaomi/lavender" name="y_device_xiaomi_lavender" remote="xenxynon" revision="Evo-12" />
   <project path="device/xiaomi/sdm660-common" name="device_xiaomi_sdm660-common" remote="xenxynon" revision="12" />
   <project path="vendor/xiaomi/lavender" name="vendor_xiaomi_lavender" remote="xenxynon" revision="12" />
   <project path="vendor/xiaomi/sdm660-common" name="vendor_xiaomi_sdm660-common" remote="xenxynon" revision="twelve" 
