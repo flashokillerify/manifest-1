@@ -4,7 +4,7 @@
       <remote name="xenxynon"
           fetch="https://github.com/xenxynon" />
 
-  <project path="device/xiaomi/lavender" name="android_device_xiaomi_lavender" remote="xenxynon" revision="eleven" />
+  <project path="device/xiaomi/lavender" name="aex_device_xiaomi_lavender" remote="xenxynon" revision="eleven" />
   <project path="vendor/xiaomi/lavender" name="android_vendor_xiaomi_lavender" remote="xenxynon" revision="eleven" />
   <project path="kernel/xiaomi/lavender" name="kernel_xiaomi_lavender" remote="xenxynon" revision="oldcam-eas" />
 
@@ -12,4 +12,4 @@
 
 
 </manifest>
-ji
+
