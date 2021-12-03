@@ -11,5 +11,4 @@
   <project path="kernel/xiaomi/lavender" name="kernel_xiaomi_lavender" remote="xenxynon" revision="oldcam-eas" />
 
 
-
 </manifest>
