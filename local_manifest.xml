@@ -10,6 +10,4 @@
   <project path="vendor/xiaomi/sdm660-common" name="vendor_xiaomi_sdm660-common" remote="xenxynon" revision="eleven"/>
   <project path="kernel/xiaomi/lavender" name="kernel_xiaomi_lavender" remote="xenxynon" revision="oldcam-eas" />
  
-  <remove-project name="packages/resources/devicesettings" />
-
 </manifest>
