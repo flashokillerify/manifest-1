@@ -9,5 +9,7 @@
   <project path="vendor/xiaomi/lavender" name="vendor_xiaomi_lavender" remote="xenxynon" revision="11" />
   <project path="vendor/xiaomi/sdm660-common" name="vendor_xiaomi_sdm660-common" remote="xenxynon" revision="eleven"/>
   <project path="kernel/xiaomi/lavender" name="kernel_xiaomi_lavender" remote="xenxynon" revision="oldcam-eas" />
- 
+   <project path="packages/resources/devicesettings" name="android_packages_resources_devicesettings" remote="xenxynon" revision="lineage-18.1" />
+
+
 </manifest>
