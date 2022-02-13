@@ -4,12 +4,10 @@
 
 <!-- HALs -->
 
-<!-- <remove-project name="android_hardware_qcom_display" />
+  <remove-project name="android_hardware_qcom_display" />
   <remove-project name="android_hardware_qcom_audio" />
-  <remove-project name="android_hardware_qcom_media" /> -->
-
-  <remove-project name="platform/hardware/qcom/gps" />
-
+  <remove-project name="android_hardware_qcom_media" />
+  <remove-project name="android_device_qcom_sepolicy-legacy-um" />
 
 <!-- device settings -->
 
