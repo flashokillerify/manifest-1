@@ -9,7 +9,7 @@
 <!-- device trees -->
 
         <project path="device/xiaomi/lavender" name="device_xiaomi_lavender-1" remote="xenxynon" revision="twelve" />
-        <project path="vendor/xiaomi/lavender" name="vendor_xiaomi_lavender" remote="xenxynon" revision="twelve" />
+        <project path="vendor/xiaomi/lavender" name="vendor_xiaomi_lavender" remote="xenxynon" revision="12" />
 
 <!-- kernel -->
         
