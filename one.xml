@@ -4,7 +4,15 @@
         <remote name="xenxynon"
                 fetch="https://github.com/xenxynon" />
         <remote name="stormbreaker" 
-                fetch="https://github.com/stormbreaker-project" />        
+                fetch="https://github.com/stormbreaker-project" />     
+ 
+        <remote  name="fb"   
+                fetch="https://github.com/xdCAF-mojito" />
+ 
+
+        <remove-project name="xd_frameworks_base" />
+
+        <project path="frameworks/base" name="xd_frameworks_base" remote="fb" revision="eleven" />   
 
 <!-- device trees -->
 
