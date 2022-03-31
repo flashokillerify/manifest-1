@@ -6,7 +6,7 @@
            fetch="https://gitlab.com/xenxynon" />
 
  <remove-project name="vendor_aosp" />
- <project path="vendor/google/gms" name="xdroid_vendor_google_gms" remote="xen-lab"/>
+ <project path="vendor/google/gms" name="vendor_google_gms_minimal" remote="xen-lab"/>
  <project path="vendor/aosp" name="vendor_aosp" remote="xenxynon" revision="ace" />
  <project path="vendor/lawnchair" name="vendor_lawnchair" remote="KOSP" revision="A12" />
 </manifest>
