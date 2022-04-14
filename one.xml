@@ -1,20 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-        <remote name="xenxynon"
-                fetch="https://github.com/xenxynon" />
-        <remote name="XS"
-                fetch="https://github.com/XenStuff" />
-        <remote name="prpr"
-                fetch="https://github.com/ImPrashantt" />
+        <remote name="pe"
+                fetch="https://github.com/https://github.com/PixelExperience-Devices" />
+        <remote name="pe-blobs"
+          fetch="https://gitlab.pixelexperience.org/android"
 
 <!-- device trees -->
 
-        <project path="device/xiaomi/lavender" name="device_xiaomi_lavender-p" remote="XS" revision="aosp" />
-        <project path="vendor/xiaomi/lavender" name="vendor_xiaomi_lavender-p" remote="XS" revision="12" />
+        <project path="device/xiaomi/sweet" name="device_xiaomi_sweet" remote="pe" revision="twelve" />
+        <project path="device/xiaomi/sm6150-common" name="device_xiaomi_sm6150-common" remote="pe" revision="twelve" />
+        <project path="device/xiaomi/extas" name="device_xiaomi_sm6150-extras" remote="pe" revision="twelve" />
+        <project path="vendor/xiaomi/sweet" name="vendor_xiaomi_sweet" remote="pe-blobs" revision="twelve" />
+        <project path="vendor/xiaomi/sm6150-common" name="vendor_xiaomi_sm6150-common" remote="pe-blobs" revision="twelve" />
 
 <!-- kernel -->
         
-        <project path="kernel/xiaomi/lavender" name="android_kernel_xiaomi_lavender-LTO" remote="prpr" revision="eas-caf" clone-depth="1" />
+        <project path="kernel/xiaomi/sweet" name="kernel_xiaomi_sweet" remote="pe" revision="twelve" clone-depth="1" />
 
 </manifest>
