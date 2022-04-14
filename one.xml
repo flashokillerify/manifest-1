@@ -2,7 +2,7 @@
 <manifest>
 
         <remote name="pe"
-                fetch="https://github.com/https://github.com/PixelExperience-Devices" />
+                fetch="https://github.com/PixelExperience-Devices" />
         <remote name="pe-blobs"
           fetch="https://gitlab.pixelexperience.org/android"
 
