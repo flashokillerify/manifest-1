@@ -2,6 +2,9 @@
 <manifest>
 
  <remove-project name="vendor_aosp" />
- <project path="vendor/aosp" name="vendor_aosp" remote="XS" revision="twelve-plus" />
+ <project path="vendor/aosp" name="vendor_aosp" remote="XS" revision="one" />
+
+ <remove-project name="frameworks_base" />
+ <project path="frameworks/base" name="frameworks_base" remote="XS" revision="twelve-plus" />
 
 </manifest>
