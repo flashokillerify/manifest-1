@@ -10,7 +10,7 @@
 
 <!-- device trees -->
 
-        <project path="device/xiaomi/lavender" name="device_xiaomi_lavender-p" remote="XS" revision="aosp" />
+        <project path="device/xiaomi/lavender" name="device_xiaomi_lavender-p" remote="XS" revision="pe-min" />
         <project path="vendor/xiaomi/lavender" name="vendor_xiaomi_lavender-p" remote="XS" revision="12" />
 
 <!-- kernel -->
